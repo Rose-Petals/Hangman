@@ -1,2 +1,2 @@
-# text based hangman made using java
+# Text based hangman made using Python
  
